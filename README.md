@@ -1,4 +1,4 @@
-# MVC Design Pattern Implementation - Documentation
+# ✓ MVC Design Pattern Implementation - Documentation
 
 The provided code implements the Model-View-Controller (MVC) design pattern to create a simple product management application using Python and the Tkinter GUI library for the View (V), a MongoDB database for the Model (M), and a Controller (C) to handle the interactions between the View and the Model.
 
